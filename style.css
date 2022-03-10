@@ -1,0 +1,38 @@
+body{
+    background-color: #03fcf0;
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+nav{
+    background-color: rgb(70, 140, 200);
+}
+aside{
+    background-color: #3452eb;
+}
+nav,aside{
+    color: chartreuse
+}
+a{
+    text-decoration: none;
+    color:cadetblue;
+}
+a:visited{
+    color:dodgerblue;
+}
+a:hover{
+    color:lightskyblue
+}
+style{
+    border:solid, black;
+    box-shadow: black;
+}
+h1{
+    font-size: 3em;
+    text-shadow: black;
+}
+p{
+    font-size: 15px;
+}
+span{
+    font-weight: bold;
+}
